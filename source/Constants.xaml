@@ -38,10 +38,10 @@
     <!--IL--><sys:TimeSpan x:Key="IntroTimespan">0:0:01</sys:TimeSpan><!--IL-->
 
     <!--IntroVideo-->
-    <sys:Boolean x:Key="IntroVideo">false</sys:Boolean>
+    <sys:Boolean x:Key="IntroVideo">true</sys:Boolean>
 
     <!--IntroVideoVolume-->
-    <!--IVV--><sys:Double x:Key="IntroVideoVolume">0</sys:Double><!--IVV-->
+    <!--IVV--><sys:Double x:Key="IntroVideoVolume">0.5</sys:Double><!--IVV-->
 
     <!--Labels-->
     <!--PGL--><sys:String x:Key="PlayGameLabelString">Game</sys:String><!--PGL-->
@@ -57,7 +57,7 @@
     <sys:Boolean x:Key="Trailers">true</sys:Boolean>
 
     <!--MicroVideoBackgrounds-->
-    <sys:Boolean x:Key="MicroVideoBackgrounds">false</sys:Boolean>
+    <sys:Boolean x:Key="MicroVideoBackgrounds">true</sys:Boolean>
 
     <!--TrailerVideoBackgrounds-->
     <sys:Boolean x:Key="TrailerVideoBackgrounds">false</sys:Boolean>
